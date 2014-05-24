@@ -22,3 +22,8 @@ git_quiz
  
 Сами задачки — это пошаговое выполнение разработки по gitflow с использование git.
 git_quiz
+
+
+Благодарности:
+
+ • Пользователю https://github.com/ewancoder за перекодировку файлов в utf-8. https://github.com/SychevIgor/git_quiz/issues/2
